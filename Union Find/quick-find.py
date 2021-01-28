@@ -1,4 +1,4 @@
-class UF:
+class QuickFind:
     def __init__(self, N):
         self.id = list(range(N))
     
@@ -16,7 +16,7 @@ class UF:
                 self.id[index] = qval
         
 
-client = UF(10)
+client = QuickFind(10)
 client.union(4,3)
 client.union(3,8)
 client.union(6,5)
@@ -28,5 +28,3 @@ client.union(5,0)
 client.union(7,2)
 client.union(6,1)
 
-
-    
