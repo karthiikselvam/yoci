@@ -8,5 +8,9 @@ A collection of data structures ⛩ and algorithms 🏃‍♂️
   - [x] [Weighted Union](https://github.com/karthiikselvam/yoci/blob/main/Union%20Find/weighted-union.py)
   - [x] [Path Compressed Weighted Union](https://github.com/karthiikselvam/yoci/blob/main/Union%20Find/path-compressed-weighted-union.py)
 
+- [x] Stack
+ - [x] [Linked List Stack]()
+ - [] [Fixed Array Stack]()
+
 ## References 
 https://github.com/dvklopfenstein/PrincetonAlgorithms/tree/main/py/AlgsSedgewickWayne
