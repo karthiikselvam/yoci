@@ -10,7 +10,7 @@ A collection of data structures ⛩ and algorithms 🏃‍♂️
 
 - [x] Stack
  - [x] [Linked List Stack]()
- - [] [Fixed Array Stack]()
+
+- [] Trees
 
 ## References 
-https://github.com/dvklopfenstein/PrincetonAlgorithms/tree/main/py/AlgsSedgewickWayne
